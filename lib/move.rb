@@ -13,6 +13,6 @@ def input_to_index(index = 0)
   index.to_i - 1
 end
 
-def update_array_at_with(array,index,choice)
+def move(array,index,choice)
   array[index]= choice
 end
