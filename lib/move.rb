@@ -12,6 +12,6 @@ def input_to_index(index = 0)
   index - 1
 end
 
-def (array,index,choice)
+def update_array_at_with(array,index,choice)
   array[index]= choice
 end
