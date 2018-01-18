@@ -12,5 +12,5 @@ def input_to_index(index = 0)
 end
 
 def move(array,index,choice)
-  board[]
+  array[]
 end
