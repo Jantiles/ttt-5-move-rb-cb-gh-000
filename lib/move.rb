@@ -8,5 +8,6 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(index = 0)
+  index.to_i
   array_spot = index - 1
 end
